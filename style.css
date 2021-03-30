@@ -21,3 +21,11 @@ body {
 .closed {
     display: none;
 }
+
+.open {
+    display: none;
+}
+
+.active {
+    display: block;
+}
